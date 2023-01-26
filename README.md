@@ -5,7 +5,7 @@ En el siguiente link de GitHub [Sintaxis de escritura y formato básicos](https:
 
 ## Lista de Funciones y Códigos
 ### 1. Estrategia de Sensoramiento Remoto
-1.1. Función para authenticar e inicializar Google Earth Engine ([Función](https://github.com/kballesterosanla/Git-GItHub_ANLA))./
+1.1. Función para authenticar e inicializar Google Earth Engine ([Función](https://github.com/kballesterosanla/Git-GItHub_ANLA.\\
 1.2. Función para authenticar e inicializar Google Earth Engine ([Función](https://github.com/kballesterosanla/Git-GItHub_ANLA)).
 1.3. Función para authenticar e inicializar Google Earth Engine ([Función](https://github.com/kballesterosanla/Git-GItHub_ANLA)).
 
