@@ -14,6 +14,8 @@ En el siguiente link de GitHub [Sintaxis de escritura y formato básicos](https:
 2.2. Función para authenticar e inicializar Google Earth Engine ([Función](https://github.com/kballesterosanla/Git-GItHub_ANLA)).\
 2.3. Función para authenticar e inicializar Google Earth Engine ([Función](https://github.com/kballesterosanla/Git-GItHub_ANLA)).
 
+
+
 # TEMPLETE
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
